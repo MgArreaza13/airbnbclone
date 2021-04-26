@@ -11,11 +11,11 @@ export const BannerContainer = styled.div`
 export const BannerInfo = styled.div`
   background-color: black;
   color: white;
-  padding: 25vh 50px 40px 50px;
+  padding: 20vh 50px 40px 50px;
   width: 300px;
 
   > h5 {
-    margin-top: 10px;
+    margin-top: 15px;
   }
 
   > button {
